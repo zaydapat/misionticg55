@@ -1,0 +1,15 @@
+body {
+    background: rgb(183, 228, 194);
+  }
+
+.nav-custom{
+    background: rgb(183, 228, 194);   
+}
+
+.div-card{
+    background: rgb(183, 228, 194);  
+}
+
+h6, p{
+    text-align: justify;
+}
